@@ -1,4 +1,4 @@
-# DocuMind AI
+# Angel AI
 
 A full-stack AI chatbot that answers questions from your own PDF documents using Retrieval-Augmented Generation (RAG). It includes secure authentication, streaming responses, saved conversations, and source citations.
 
@@ -31,7 +31,7 @@ A full-stack AI chatbot that answers questions from your own PDF documents using
 
 ## Overview
 
-DocuMind AI lets users upload PDF documents and hold a conversation with them. Instead of relying only on a language model's general knowledge, the application retrieves the most relevant passages from the user's documents and uses them to generate accurate, grounded answers with citations.
+Angel AI lets users upload PDF documents and hold a conversation with them. Instead of relying only on a language model's general knowledge, the application retrieves the most relevant passages from the user's documents and uses them to generate accurate, grounded answers with citations.
 
 The project demonstrates end-to-end full-stack development, including authentication, real-time streaming, vector search, and cloud deployment.
 
@@ -100,7 +100,7 @@ MongoDB Atlas
 ## Project Structure
 
 ```
-documind-ai/
+Angel-ai/
 ├── client/                     # Next.js frontend
 │   ├── app/
 │   │   ├── (auth)/             # login and register pages
@@ -142,8 +142,8 @@ documind-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/documind-ai.git
-cd documind-ai
+git clone https://github.com/your-username/Angel-ai.git
+cd Angel-ai
 ```
 
 ### 2. Set up the backend
